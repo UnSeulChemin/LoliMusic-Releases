@@ -33,7 +33,6 @@
 
 LoliMusic 是专有软件，源代码不公开。
 
----
 
 ## 🇬🇧 English
 
@@ -68,7 +67,6 @@ This repository is used exclusively to distribute **official LoliMusic releases 
 
 LoliMusic is proprietary software. Its source code is not publicly available.
 
----
 
 ## 🇫🇷 Français
 
