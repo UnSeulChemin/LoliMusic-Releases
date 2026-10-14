@@ -1,42 +1,39 @@
 # 🎵 LoliMusic
 
-**LoliMusic** 是一款适用于 Windows 的音乐播放器，支持整合来自 **YouTube、网易云音乐（NetEase）和本地文件** 的音乐。
+## 🇨🇳 中文
+
+**LoliMusic** 是一款适用于 Windows 的音乐播放器，可以将来自 **YouTube、网易云音乐（NetEase）和本地文件** 的音乐整合到同一个应用中。
 
 无需在不同平台之间切换，即可统一管理音乐、收藏歌曲并创建个性化播放列表。
 
-## ✨ 主要功能
+### ✨ 主要功能
 
 - 🎵 **统一音乐库**：整合不同来源的音乐。
-- 📥 **音乐下载**：支持通过 YouTube 和网易云音乐链接下载支持的歌曲（不包括 VIP 专属内容）。
+- 📥 **音乐下载**：通过 YouTube 和网易云音乐链接下载支持的歌曲（不包括 VIP 专属内容）。
 - 📂 **本地音乐**：支持导入本地音乐文件和文件夹。
 - 📋 **混合播放列表**：将不同来源的歌曲添加到同一个播放列表。
 - ❤️ **收藏与搜索**：轻松整理和查找音乐。
-- 💾 **数据备份**：支持 JSON 格式的播放列表备份。
+- 💾 **数据备份**：支持以 JSON 格式备份播放列表。
 - 🎮 **Discord Rich Presence**：支持显示播放状态，并提供隐私设置。
-- 🔄 **版本更新**：支持检查 GitHub Releases 上的新版本。
+- 🔄 **版本更新**：支持通过 GitHub Releases 检查新版本。
 
-## 📥 下载
+### 📥 下载
 
-**最新版本：v1.0.0**
+👉 **[下载 LoliMusic 最新版本](https://github.com/UnSeulChemin/LoliMusic-Releases/releases/latest)**
 
-👉 [下载 LoliMusic 最新版本](https://github.com/UnSeulChemin/LoliMusic-Releases/releases/latest)
+进入下载页面后，在 **Assets** 中选择 Windows `.exe` 文件。
 
-下载 `LoliMusic-v1.0.0.exe`，即可在 Windows 上运行。
-
-## 💻 系统要求
+### 💻 系统要求
 
 - Windows 10 / 11（64 位）
 
-## 📦 关于此仓库
+### 📦 关于此仓库
 
-此仓库仅用于发布 **LoliMusic 的公开版本和更新**。
+此仓库仅用于发布 **LoliMusic 的官方版本和更新**。
 
 LoliMusic 是专有软件，源代码不公开。
 
-© 2026 LoliMusic. All rights reserved.
-
-
-# 🎵 LoliMusic
+---
 
 ## 🇬🇧 English
 
@@ -57,11 +54,9 @@ Manage your music library, save your favorite songs, and create personalized pla
 
 ### 📥 Download
 
-**Latest version: v1.0.0**
+👉 **[Download the latest version of LoliMusic](https://github.com/UnSeulChemin/LoliMusic-Releases/releases/latest)**
 
-👉 [Download the latest version of LoliMusic](https://github.com/UnSeulChemin/LoliMusic-Releases/releases/latest)
-
-Download `LoliMusic-v1.0.0.exe` to run LoliMusic on Windows.
+On the download page, select the Windows `.exe` file under **Assets**.
 
 ### 💻 System Requirements
 
@@ -73,8 +68,7 @@ This repository is used exclusively to distribute **official LoliMusic releases 
 
 LoliMusic is proprietary software. Its source code is not publicly available.
 
-© 2026 LoliMusic. All rights reserved.
-
+---
 
 ## 🇫🇷 Français
 
@@ -95,11 +89,9 @@ Gérez votre bibliothèque musicale, retrouvez vos morceaux favoris et créez de
 
 ### 📥 Téléchargement
 
-**Dernière version : v1.0.0**
+👉 **[Télécharger la dernière version de LoliMusic](https://github.com/UnSeulChemin/LoliMusic-Releases/releases/latest)**
 
-👉 [Télécharger la dernière version de LoliMusic](https://github.com/UnSeulChemin/LoliMusic-Releases/releases/latest)
-
-Téléchargez `LoliMusic-v1.0.0.exe` pour utiliser LoliMusic sur Windows.
+Sur la page de téléchargement, sélectionnez le fichier Windows `.exe` dans la section **Assets**.
 
 ### 💻 Configuration requise
 
@@ -111,4 +103,6 @@ Ce dépôt sert exclusivement à distribuer les **versions officielles et les mi
 
 LoliMusic est un logiciel propriétaire. Son code source n'est pas public.
 
-© 2026 LoliMusic. Tous droits réservés.
+---
+
+© 2026 LoliMusic. All rights reserved.
